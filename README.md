@@ -1,1 +1,1 @@
-# alexi-s-blog
+# alexi-blog
